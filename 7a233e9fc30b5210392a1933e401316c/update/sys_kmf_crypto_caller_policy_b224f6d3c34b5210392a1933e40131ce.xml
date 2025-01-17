@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_crypto_caller_policy">
+    <sys_kmf_crypto_caller_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approval_type/>
+        <check_script_hash>false</check_script_hash>
+        <crypto_module display_value="instance_level_glide_encrypter">401fa53c5b6220106cdba88ddc81c754</crypto_module>
+        <crypto_spec display_value="instance_level_glide_encrypter --- Symmetric Key Wrapping/Unwrapping">9e1f293c5b6220106cdba88ddc81c797</crypto_spec>
+        <granular_operation/>
+        <identity_group_alias/>
+        <impersonation>false</impersonation>
+        <instance_recipient/>
+        <owner>7ef446611bae751cba5ceb9b2d4bcb54</owner>
+        <policy_name>AutoGen-scope-x_1601794_wish_lis-instance_level_glide_encrypter</policy_name>
+        <result>track</result>
+        <script_hash/>
+        <script_table/>
+        <signature_data/>
+        <specify_purpose>false</specify_purpose>
+        <sys_class_name>sys_kmf_crypto_caller_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-17 19:14:37</sys_created_on>
+        <sys_id>b224f6d3c34b5210392a1933e40131ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Wish List" source="x_1601794_wish_lis">7a233e9fc30b5210392a1933e401316c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">7a233e9fc30b5210392a1933e401316c</sys_scope>
+        <sys_update_name>sys_kmf_crypto_caller_policy_b224f6d3c34b5210392a1933e40131ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-17 19:14:37</sys_updated_on>
+        <target_role/>
+        <target_scope display_value="Wish List">7a233e9fc30b5210392a1933e401316c</target_scope>
+        <target_script/>
+        <type>3</type>
+        <used>false</used>
+    </sys_kmf_crypto_caller_policy>
+</record_update>
